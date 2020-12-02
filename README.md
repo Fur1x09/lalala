@@ -1,15 +1,37 @@
-# anti-nuke
-Best protection against your server being completely ruined  
+Welcome to Glitch
+=================
+
+Click `Show` in the header to see your app live. Updates to your code will instantly deploy and update live.
+
+**Glitch** is the friendly community where you'll build the app of your dreams. Glitch lets you instantly create, remix, edit, and host an app, bot or site, and you can invite collaborators or helpers to simultaneously edit code with you.
+
+Find out more [about Glitch](https://glitch.com/about).
 
 
-# Download
+Your Project
+------------
 
-Download to zip, extract to desktop, open cmd and use cd path/to/folder, npm install, open index.js and put your token in client.login("token here"), then node . and it should be running.
+### ← README.md
 
-# Coming Soon
+That's this file, where you can tell people what your cool website does and how you built it.
 
-Anti-Raid
+### ← index.html
 
-# How To Bypass
+Where you'll write the content of your website. 
 
-**time.sleep(2)**
+### ← style.css
+
+CSS files add styling rules to your content.
+
+### ← script.js
+
+If you're feeling fancy you can add interactivity to your site with JavaScript.
+
+### ← assets
+
+Drag in `assets`, like images or music, to add them to your project
+
+Made by [Glitch](https://glitch.com/)
+-------------------
+
+\ ゜o゜)ノ
